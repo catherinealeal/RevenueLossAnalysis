@@ -48,7 +48,7 @@ CREATE TABLE Payments AS
 	FROM ecomm;
 ```
 
-![image](schema image)
+![image](https://github.com/catherinealeal/RevenueLossAnalysis/blob/main/schema.png)
 
 ## Exploratory Analysis 
 

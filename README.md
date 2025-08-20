@@ -22,7 +22,7 @@ Learn more about the data [here](https://www.kaggle.com/datasets/steve1215rogg/e
 
 First thing, I created a database for this project in DBeaver and imported the dataset. For demonstration purposes, I then broke the dataset into multiple tables according to the following schema. 
 
-![image](schema image)
+![image](https://github.com/catherinealeal/RevenueLossAnalysis/blob/main/schema.png)
 
 ## Conclusion: Strategic Recommendations to Increase Revenue
 

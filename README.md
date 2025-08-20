@@ -41,4 +41,6 @@ In 2024, the company lost over $17k just by selling book and home/kitchen produc
 
 Had the company sold all of their books and home/kitchen products at full price, they would have saved over $53k. 
 
-View the full analysis [here]()
+View the full analysis [here](https://github.com/catherinealeal/RevenueLossAnalysis/blob/main/Analysis.md)
+
+View the SQL queries [here](https://github.com/catherinealeal/RevenueLossAnalysis/blob/main/queries.sql)
